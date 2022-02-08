@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
 body{
     padding: 0;
+    margin: 0;
+    background: blue;
 }
 .wrapper{
     margin-left: auto;
@@ -14,22 +17,30 @@ body{
     height: 500px;
     box-shadow: white;
     display: flex;
+    z-index: 10;
 }
 nav{
     position: fixed;
     width: 100%;
     background: honeydew;
+
 }
 nav li{
     display: inline-block;
     float: right;
     padding: 5px;
-    color: darkseagreen;
+    color: #484848;
     margin-right: 50px;
     margin-top: 15px;
     font-family: 'Dongle', sans-serif;
     font-size: 30px;
     cursor: pointer;
+}
+.li-about-us{
+    color: darkseagreen;
+}
+li:hover{
+    color: darkseagreen;
 }
 
 #kaproa{
@@ -50,7 +61,6 @@ h1{
     text-transform: uppercase;
     letter-spacing: 2px;
     white-space: nowrap;
-
 }
 span{
     font-family: 'Dongle', sans-serif;
@@ -118,20 +128,22 @@ h3{
 
 .grid-menu{
     background: darkslategray;
-    padding: 20px 70px 20px 70px;
+    padding: 70px 70px 20px 70px;
     position: relative;
+    z-index: -1;
 }
 h4{
     font-family: 'Zen Kurenaido', sans-serif;
     color: #fffbfb;
     letter-spacing: 3px;
+    font-size: 15px;
 }
 
 .menu-content p{
     color: rgb(255, 245, 155);
 }
 .menu-content{
-    margin: 50px 150px 50px 50px;
+    margin: 50px 50px 50px 50px;
     text-align: center;
 }
 .container-menu {
@@ -141,6 +153,11 @@ h4{
     padding-bottom: 10px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+}
+@media screen and (max-width: 1430px){
+    .container-menu{
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 i{
     background-image: linear-gradient(to bottom, green, red);
@@ -165,10 +182,11 @@ h5{
 .location-background{
     background-size: cover;
     width: 100%;
-    min-height: 70vh;
     object-fit: cover;
     object-position: center;
     background: antiquewhite;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 h6{
     color: black;
@@ -244,3 +262,36 @@ iframe{
        margin: 20px 0 20px 0;
     }
 }
+
+
+.spacer{
+    aspect-ratio: 896/450;
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+.layer1{
+    background-image: url("../resources/global/layered-waves-haikei.svg") ;
+
+}
+.footer-shop-name, .phone-number, .email-address{
+    color: whitesmoke;
+    text-align: center;
+}
+.contact-us{
+    padding-top: 50px;
+}
+.phone, .email{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.phone-number, .email-address{
+    margin-left: 20px;
+}
+.fa-envelope-square, .fa-phone-volume{
+    -webkit-text-fill-color: honeydew;
+}
+
