@@ -1,7 +1,7 @@
 ### Hi I am Vipavee Kositthai👋
 
-- 🔭 I’m currently working on HTML, CSS and JS
-- 🌱 I’m currently learning JS, React, Typescript 
+- 👩🏽‍💻 Knowledge in HTML CSS JS
+- 📖 Currently learning JS, React, Typescript, NodeJs
 - 📫 How to reach me: e-mail: vkositthai@outlook.com
 - 😄 Pronouns: She/Her
 
