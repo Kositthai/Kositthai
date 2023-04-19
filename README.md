@@ -6,3 +6,5 @@ As a frontend developer student at HackYourFuture Bootcamp, I possess a strong k
 
 I invite you to check out my full-stack app, Meal-Sharing-App, which is available for viewing live on its repository.
 
+### Skills 
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,mysql,git,bootstrap)](https://skillicons.dev)
