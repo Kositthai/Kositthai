@@ -1,6 +1,4 @@
-
-
-![VIPAVEE KOSITTHAI (2)](https://user-images.githubusercontent.com/94117213/233392790-47b1c04e-d373-4c01-a3bd-3d5ee562f0c4.png)
+![2](https://user-images.githubusercontent.com/94117213/233400533-17591b55-3d38-4e5d-aa9e-876b7f2546ee.png)
 
 
 ### Hi I am Vipavee Kositthai👋
