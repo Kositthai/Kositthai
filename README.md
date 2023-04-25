@@ -12,7 +12,4 @@ I invite you to check out my full-stack app, Meal-Sharing-App, which is availabl
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=react,js,css,bootstrap,html,nodejs,mysql,postman,git)](https://skillicons.dev)
 
-### CodewarsBadge
-My Codewars Badge:
-
 ![image](https://www.codewars.com/users/Kositthai/badges/large)
