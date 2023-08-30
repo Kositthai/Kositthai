@@ -10,6 +10,6 @@ My love for coding stems from the creative outlet it provides me, as well as the
 I invite you to check out my full-stack app, Meal-Sharing-App, which is available for viewing live on its repository.
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,bootstrap,html,nodejs,mysql,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,css,bootstrap,html,nodejs,mysql,postman,git)](https://skillicons.dev)
 
 ![image](https://www.codewars.com/users/Kositthai/badges/large)
