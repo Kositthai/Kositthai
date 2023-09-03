@@ -1,4 +1,5 @@
-![I am Vipavee (1)](https://github.com/Kositthai/Kositthai/assets/94117213/4bb7f2d8-b980-4531-841d-8221ea2104f9)
+
+![I_am_Vipavee__2_-removebg-preview](https://github.com/Kositthai/Kositthai/assets/94117213/d06719cf-8fa9-4278-9b8e-fdc83b9f8627)
 
 
 ### Hi I am Vipavee Kositthai👋
