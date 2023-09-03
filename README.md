@@ -1,5 +1,5 @@
+![I am Vipavee (1)](https://github.com/Kositthai/Kositthai/assets/94117213/4bb7f2d8-b980-4531-841d-8221ea2104f9)
 
-![Heading (1)](https://user-images.githubusercontent.com/94117213/234127857-b3b2e85d-0112-48c7-848b-c585d3b4bc76.png)
 
 ### Hi I am Vipavee Kositthai👋
 
