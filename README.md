@@ -1,8 +1,4 @@
 
-![I_am_Vipavee__2_-removebg-preview](https://github.com/Kositthai/Kositthai/assets/94117213/d06719cf-8fa9-4278-9b8e-fdc83b9f8627)
-
-<br>
-
 ### Hi I am Vipavee Kositthai👋
 
 As a frontend developer student at HackYourFuture Bootcamp, I possess a strong knowledge of HTML, CSS, Git, JavaScript, MySQL, Knex.js, Node.js, and React. 
