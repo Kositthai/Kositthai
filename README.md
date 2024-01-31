@@ -7,6 +7,8 @@ My love for coding stems from the creative outlet it provides me, as well as the
 
 I invite you to check out my full-stack app, Meal-Sharing-App, which is available for viewing live on its repository.
 
+I am actively working on with PHP and Laravel 
+
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,css,bootstrap,html,nodejs,mysql,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,css,bootstrap,html,nodejs,mysql,postman,git,laravel,php)](https://skillicons.dev)
 
