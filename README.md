@@ -1,14 +1,12 @@
 
-### Hi I am Vipavee Kositthai👋
+### 👋 Hi, I'm Vipavee Kositthai.
 
-As a frontend developer student at HackYourFuture Bootcamp, I possess a strong knowledge of HTML, CSS, Git, JavaScript, MySQL, Knex.js, Node.js, and React. 
 
-My love for coding stems from the creative outlet it provides me, as well as the satisfaction of problem-solving and learning new things to overcome obstacles. This passion for coding motivated me to switch career paths from logistics to web development.
+Front-end developer transitioning to full-stack development at Walor.io. My curiosity fuels my passion for learning new technologies, and I'm currently diving into PHP | Laravel and embracing the challenge of learning mobile development with React Native.
 
-I invite you to check out my full-stack app, Meal-Sharing-App, which is available for viewing live on its repository.
+🚀 My professional goal is to enhance my development skills and leverage them to solve real-world problems. I thrive on tackling new challenges and am always eager to contribute to impactful projects.
 
-I am actively working on with PHP and Laravel 
-
+📫 Let's connect! Feel free to reach out to me via email at vkositthai@outlook.com or connect with me on LinkedIn (https://www.linkedin.com/in/vipavee-kositthai/).
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,js,css,bootstrap,html,nodejs,mysql,postman,git,laravel,php)](https://skillicons.dev)
 
